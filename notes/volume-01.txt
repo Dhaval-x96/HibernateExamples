@@ -1,0 +1,8 @@
+# collection
+- list, set, map...
+
+- Mapping Assocaiation>
+
+- List: @OrderColumn:- The name of the column to track element order / position. Name default to <property>_ORDER.
+- Map: @MapKeyColumn:- This will set key and map it from column.
+- SortedSet: @OrderBy:- This will used for representation of ascending and desending.
